@@ -1,4 +1,4 @@
 # tgitHi
-Here is used to test ideas about Git
+Let's test ideas at Here
 
 Cliff is here. I love drinking beer, wine, and water :)
