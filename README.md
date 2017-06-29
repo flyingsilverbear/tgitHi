@@ -1,4 +1,9 @@
 # tgitHi
-Let's test ideas at Here
 
-Cliff is here. I love drinking beer, wine, and water :)
+## About me
+
+I am Cliff, a Physicist. I love drinking beer, wine, and water :)
+
+## Git
+
+'git push'
