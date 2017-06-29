@@ -1,11 +1,5 @@
-# tgitHi
+# Flying Bear
 
-## About me
+## About 01
 
-I am Cliff, a Physicist. I love drinking beer, wine, and water :)
-
-## Git
-```
-
-git push
-```
+Can you imagine a bear flying?
